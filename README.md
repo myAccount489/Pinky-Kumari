@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/myAccount489/Pinky-Kumari/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Pinky Kumari</h1>
 <h3 align="center">A passionate Web-developer and Web-Designer from India</h3>
 <img align="right" width="400" src="coding.gif">
