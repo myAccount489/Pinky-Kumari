@@ -1,7 +1,7 @@
 ![logo](https://github.com/myAccount489/Pinky-Kumari/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Pinky Kumari</h1>
 <h3 align="center">A passionate Web-developer and Web-Designer from India</h3>
-<img align="right" width="400" src="coding.gif">
+<img align="right" width="400" src="[coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&psig=AOvVaw1g38xO0htpOWCUud0uN0Hf&ust=1710170366532000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDH0qT_6YQDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinky-kumari&label=Profile%20views&color=0e75b6&style=flat" alt="pinky-kumari" /> </p>
 
