@@ -1,7 +1,7 @@
 ![logo](https://github.com/myAccount489/Pinky-Kumari/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Pinky Kumari</h1>
 <h3 align="center">A passionate Web-developer and Web-Designer from India</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffemale-web-developer&psig=AOvVaw1g38xO0htpOWCUud0uN0Hf&ust=1710170366532000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDH0qT_6YQDFQAAAAAdAAAAABAJ">
+<img align="right" width="400vh" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2023%2F10%2F20%2F14%2F20%2Fai-generated-8329581_1280.jpg&tbnid=MulT417ir1eRvM&vet=12ahUKEwjZssWFiOqEAxW3gWMGHfxpBnIQMyhRegUIARC2Ag..i&imgrefurl=https%3A%2F%2Fpixabay.com%2Fillustrations%2Fai-generated-programmer-programming-8329581%2F&docid=YW0JW9ivtCgFsM&w=1280&h=1280&q=pixabay%20coding%20gif&ved=2ahUKEwjZssWFiOqEAxW3gWMGHfxpBnIQMyhRegUIARC2Ag">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinky-kumari&label=Profile%20views&color=0e75b6&style=flat" alt="pinky-kumari" /> </p>
 
